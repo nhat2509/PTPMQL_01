@@ -3,7 +3,8 @@
 <head>
 <style>
 div {
-  padding: 70px;
+  height: 50px;
+  width: 100%;
   border: 1px solid #4CAF50;
 }
 </style>
@@ -12,7 +13,8 @@ div {
 
 <h2>Nguyễn Đức Nhật</h2>
 <p>ducnhat756@gmail.com</p>
-<div>This element has a padding of 70px.</div>
+
+<div>This div element has a height of 50 pixels and a width of 100%.</div>
 
 </body>
 </html>
