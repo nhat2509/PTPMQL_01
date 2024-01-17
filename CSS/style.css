@@ -2,9 +2,8 @@
 <html>
 <head>
 <style>
-p::first-line {
-  color: #ff0000;
-  font-variant: small-caps;
+img {
+  opacity: 0.5;
 }
 </style>
 </head>
@@ -13,7 +12,8 @@ p::first-line {
 <h2>Nguyễn Đức Nhật</h2>
 <p>ducnhat756@gmail.com</p>
 
-<p>You can use the ::first-line pseudo-element to add a special effect to the first line of a text. Some more text. And even more, and more, and more, and more, and more, and more, and more, and more, and more, and more, and more, and more.</p>
+<p>Image with 50% opacity:</p>
+<img src="img_forest.jpg" alt="Forest" width="170" height="100">
 
 </body>
 </html>
