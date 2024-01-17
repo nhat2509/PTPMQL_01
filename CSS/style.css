@@ -2,24 +2,13 @@
 <html>
 <head>
 <style>
-h1 {
-  font-size: 60px;
-}
-
-p {
-  font-size: 25px;
-  line-height: 50px;
-}
+p {color: red;} 
 </style>
 </head>
 <body>
 
-<h1>This is heading 1</h1>
-
 <h2>Nguyễn Đức Nhật</h2>
 <p>ducnhat756@gmail.com</p>
-
-<p>This is another paragraph.</p>
 
 </body>
 </html>
