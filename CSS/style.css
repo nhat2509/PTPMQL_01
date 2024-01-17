@@ -2,17 +2,22 @@
 <html>
 <head>
 <style>
-div {
-  margin: 70px;
-  border: 1px solid #4CAF50;
+h1 {
+  margin: 0 0 50px 0;
+}
+
+h2 {
+  margin: 20px 0 0 0;
 }
 </style>
 </head>
 <body>
 
-<h2>Nguyễn Đức Nhật</h2>
+
 <p>ducnhat756@gmail.com</p>
-<div>ducnhat756@gmail.com</div>
+
+<h1>Nguyễn Đức Nhật</h1>
+<h2>Nguyễn Đức Nhật</h2>
 
 </body>
 </html>
