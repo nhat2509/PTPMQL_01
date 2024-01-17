@@ -2,9 +2,11 @@
 <html>
 <head>
 <style>
-div.static {
-  position: static;
-  border: 3px solid #73AD21;
+img {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
 }
 </style>
 </head>
@@ -12,10 +14,8 @@ div.static {
 
 <h2>Nguyễn Đức Nhật</h2>
 <p>ducnhat756@gmail.com</p>
-
-<div class="static">
-This div element has position: static;
-</div>
+<img src="img_tree.png">
+<p>Because the image has a z-index of -1, it will be placed behind the text.</p>
 
 </body>
 </html>
