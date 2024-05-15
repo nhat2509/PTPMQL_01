@@ -3,13 +3,12 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace MVC.Models
 {
-    [Table("Person")]
+    [Table("Teacher")]
 
-
-    public class Person {
+    public class Teacher {
     
     [Key]
-    public string? PersonId {get; set;}
+    public string? TeacherId {get; set;}
     public string? FullName {get; set;}
     
     public string? Address {get; set;}
