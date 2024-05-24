@@ -280,3 +280,6 @@ D:\BTPTPMQL\MVC\bin\Debug\net8.0\EPPlus.dll
 D:\BTPTPMQL\MVC\bin\Debug\net8.0\EPPlus.Interfaces.dll
 D:\BTPTPMQL\MVC\bin\Debug\net8.0\EPPlus.System.Drawing.dll
 D:\BTPTPMQL\MVC\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\BTPTPMQL\MVC\bin\Debug\net8.0\X.PagedList.dll
+D:\BTPTPMQL\MVC\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+D:\BTPTPMQL\MVC\obj\Debug\net8.0\MVC.MvcApplicationPartsAssemblyInfo.cs

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DbvFIpRzfrV3uk0tvnT+GuNerm9WeEOypiu9/d5Ueu0upYdB+f4Vv4vq2wuZ8zaKQFd6eRkmdzTAAZmueFia4Q==",
+  "dgSpecHash": "bmX9Tl3WyhGNCyVaNrb7hKBeEz2Z9KANQALyeP6KMOL4I4eh/kwdZxHR04hvrLIOkyfzh1IgzisRjQUA3baePg==",
   "success": true,
   "projectFilePath": "D:\\BTPTPMQL\\MVC\\MVC.csproj",
   "expectedPackageFiles": [
@@ -180,7 +180,9 @@
     "C:\\Users\\DUC VIET\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
     "C:\\Users\\DUC VIET\\.nuget\\packages\\system.threading.tasks.dataflow\\7.0.0\\system.threading.tasks.dataflow.7.0.0.nupkg.sha512",
     "C:\\Users\\DUC VIET\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\DUC VIET\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+    "C:\\Users\\DUC VIET\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\DUC VIET\\.nuget\\packages\\x.pagedlist\\9.1.2\\x.pagedlist.9.1.2.nupkg.sha512",
+    "C:\\Users\\DUC VIET\\.nuget\\packages\\x.pagedlist.mvc.core\\9.1.2\\x.pagedlist.mvc.core.9.1.2.nupkg.sha512"
   ],
   "logs": []
 }
